@@ -1,18 +1,69 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@odczynflnpm/corrupti-quisquam-soluta",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "odczynFL",
   "license": "MIT",
+  "dependencies": {
+    "@lambrioanpm/tenetur-aut-fugiat": "^1.0.0",
+    "@odczynflnpm/alias-aperiam-accusamus": "^1.0.0",
+    "@odczynflnpm/aliquid-expedita-repellat": "^1.0.0",
+    "@odczynflnpm/architecto-voluptate-tempore": "^1.0.0",
+    "@odczynflnpm/assumenda-adipisci-nulla": "^1.0.0",
+    "@odczynflnpm/error-laborum-ab": "^1.0.0",
+    "@odczynflnpm/et-tempore-deleniti": "^1.0.0",
+    "@odczynflnpm/exercitationem-molestiae-maxime": "^1.0.0",
+    "@odczynflnpm/explicabo-voluptatem-ad": "^1.0.0",
+    "@odczynflnpm/hic-laboriosam-dolore": "^1.0.0",
+    "@odczynflnpm/iste-adipisci-sit": "^1.0.0",
+    "@odczynflnpm/modi-fuga-possimus": "^1.0.0",
+    "@odczynflnpm/mollitia-praesentium-deserunt": "^1.0.0",
+    "@odczynflnpm/nam-a-doloremque": "^1.0.0",
+    "@odczynflnpm/nihil-ratione-expedita": "^1.0.0",
+    "@odczynflnpm/nulla-laborum-molestiae": "^1.0.0",
+    "@odczynflnpm/officiis-laboriosam-quam": "^1.0.0",
+    "@odczynflnpm/quaerat-neque-odit": "^1.0.0",
+    "@odczynflnpm/quas-deserunt-optio": "^1.0.0",
+    "@odczynflnpm/quas-inventore-quam": "^1.0.0",
+    "@odczynflnpm/quibusdam-debitis-hic": "^1.0.0",
+    "@odczynflnpm/quo-provident-delectus": "^1.0.0",
+    "@odczynflnpm/repellendus-commodi-sunt": "^1.0.0",
+    "@odczynflnpm/repellendus-modi-quas": "^1.0.0",
+    "@odczynflnpm/rerum-at-dignissimos": "^1.0.0",
+    "@odczynflnpm/sequi-placeat-earum": "^1.0.0",
+    "@odczynflnpm/totam-fuga-incidunt": "^1.0.0",
+    "@odczynflnpm/totam-illum-necessitatibus": "^1.0.0",
+    "@odczynflnpm/voluptas-odit-illum": "^1.0.0",
+    "@odczynflnpm/voluptatibus-blanditiis-non": "^1.0.0"
+  },
+  "keywords": [
+    "node",
+    "package.json",
+    "regular expression",
+    "mime-db",
+    "assert",
+    "postcss",
+    "mobile",
+    "get",
+    "opener",
+    "JSON",
+    "core-js",
+    "ES5",
+    "ie",
+    "copy",
+    "resolve",
+    "types",
+    "status",
+    "URLSearchParams"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/odczynflnpm/corrupti-quisquam-soluta.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/odczynflnpm/corrupti-quisquam-soluta/#readme",
+  "bugs": {
+    "url": "https://github.com/odczynflnpm/corrupti-quisquam-soluta/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
